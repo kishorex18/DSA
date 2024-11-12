@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 int stocks1(vector<int>& prices)
 {
@@ -98,4 +98,3 @@ int main()
   
   cout<<stocks5(prices)<<endl;
 }
-*/

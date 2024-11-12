@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 bool isSafe(vector<vector<bool>> &board,int row,int col)
 {
@@ -86,4 +86,4 @@ int main()
     }
   int c=nqueens(board,0);
   cout<<"count:"<<c<<endl;
-}*/
+}

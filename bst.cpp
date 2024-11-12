@@ -1,5 +1,5 @@
 // it has populate functions for both sorted array and avl trees,search function,bft,height,balance functions
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -128,7 +128,7 @@ void PostOrder(bnode* n)
   
   PostOrder(n->left);
   PostOrder(n->right);
-    cout<<"Value:"<<n->value<<endl;
+   
   if(n->left!=nullptr && n->right!=nullptr)
   {
     int lh=n->left->height;
@@ -216,4 +216,4 @@ int main()
   cout<<"height:"<<t.root->height<<endl;
   return 0;
   
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<vector>
 using namespace std;
 vector<vector<int>> permHelp(vector<int> nums,vector<int> arr)
@@ -40,4 +40,4 @@ int main()
             cout<<endl;
         }
 
-}*/
+}

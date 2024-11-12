@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 
 using namespace std;
 
@@ -282,4 +282,4 @@ int main() {
     }
   cout<<"max:"<<largerectangle(arr)<<endl;
   return 0;
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 void swap(string& s1,string& s2,int i)
 {
@@ -36,4 +36,4 @@ int main()
   minswap(s1,s2,0);
  
   return 0;
-}*/
+}

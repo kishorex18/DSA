@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 class trieNode
 {
@@ -117,4 +117,4 @@ int main()
   cout<<t.frequency("d")<<endl;
   cout<<t.search("application")<<endl;
   cout<<t.prefix("app")<<endl;
-}*/
+}

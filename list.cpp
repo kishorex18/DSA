@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 class ListNode
@@ -280,4 +280,4 @@ int main()
   //display(removeNthFromEnd(ll.head->next,4));
 //display(reverseKNodes(ll.head->next,1));
   
-}*/
+}

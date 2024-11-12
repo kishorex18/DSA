@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 bool subsum(vector<int>nums,int ind,int target,vector<vector<int>> &dp)
@@ -238,4 +238,4 @@ int main()
   int n=nums.size();
   vector<vector<int>>dp(n,vector<int>(target+1,-1));
   cout<<coinchangeways(nums,n-1,target,dp);
-}*/
+}

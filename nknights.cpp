@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 int co=0;
@@ -112,4 +112,4 @@ for(i=0;i<n;i++)
 nKnights(board,0,0,board.size());
 cout<<"count:"<<co<<endl;
   return 0;
-}*/
+}

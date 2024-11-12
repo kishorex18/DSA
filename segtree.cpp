@@ -1,6 +1,6 @@
 //This code has sum segment tree data structure it can answer queries,create trees for any array,insert elements within the range
 
-/*#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 class node
@@ -113,4 +113,4 @@ int main()
   PostOrder(t.root);
   cout<<"Ans:"<<find(0,9,t.root)<<endl;
   cout<<"Ans:"<<insert(100,11,t.root);
-}*/
+}

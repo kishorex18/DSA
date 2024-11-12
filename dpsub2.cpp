@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 int lis(vector<int> arr,int cur,int pre,vector<vector<int>>dp)
 {
@@ -125,4 +125,4 @@ int main()
       }
   }
   
-}*/
+}

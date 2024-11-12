@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 int lcs(string s1,string s2,int i,int j,vector<vector<int>> &dp)
@@ -233,4 +233,3 @@ int main()
   cout<<lps(s1)<<endl;
   cout<<distincttab(s1,s2)<<endl;
 }
-*/

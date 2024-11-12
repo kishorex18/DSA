@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 int minmoves(vector<int>arr)
 {
@@ -39,4 +39,4 @@ int minmoves(vector<int>arr)
 int main()
 {
   
-}*/
+}

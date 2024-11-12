@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 void display(vector<vector<int>> &board)
@@ -114,4 +114,4 @@ int main()
     }
   
   cout<<solve(board)<<endl;
-}*/
+}

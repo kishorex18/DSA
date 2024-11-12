@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 struct ListNode {
       int val;
@@ -351,4 +351,4 @@ int main()
     cout<<endl;
   }
   
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 int frogjumps(vector<int>&nums,vector<int>&dp,int ind)
@@ -286,4 +286,4 @@ int main()
  //cout<<minsumpaths(nums,dp,2,2);
  //cout<<tabminsumpaths(nums)<<endl;
   cout<<triangle(num)<<endl;
-}*/
+}

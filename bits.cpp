@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 int b2d(string s)
 {
@@ -121,6 +121,6 @@ int minflip(int num,int tar)
 int main()
 {
  
-  cout<<maxans<<endl;
+ 
   return 0;
-}*/
+}

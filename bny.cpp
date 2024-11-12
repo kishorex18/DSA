@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 int balancingelements(vector<int>& arr)
@@ -92,4 +92,4 @@ int main()
   vector<int> a={1,0,0,1,0,1};
   cout<<Load(arr,a,5,3)<<endl;
   return 0;
-}*/
+}

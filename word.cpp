@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 bool isValid(int r,int c,vector<vector<char>>& board)
@@ -134,4 +134,4 @@ int main()
 {
     vector<vector<char>> board = {{'A'}};
     cout<<exist(board,"A");
-}*/
+}

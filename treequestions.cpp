@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 class node
@@ -91,4 +91,4 @@ int main()
   t.root=populateSorted(0, 99, arr);
   cout<<diameter(t.root,0)<<endl;
   return 0;
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 void printMat(int mat[3][3])
 {
@@ -180,4 +180,4 @@ int main()
   int up[3][3]={{0,0,0},{0,0,0},{0,0,0}};
   printMaze("",up,0,0,maze,1);
   return 0;
-}*/
+}
